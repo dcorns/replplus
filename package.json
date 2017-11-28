@@ -1,0 +1,12 @@
+{
+  "name": "replplus",
+  "version": "1.0.0",
+  "description": "repl with built in module inclusion by argument",
+  "repository": {},
+  "author": "Dale Corns",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "replplus": "index.js"
+  }
+}
